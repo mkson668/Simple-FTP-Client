@@ -1,6 +1,6 @@
 
-## Project description
 
+## Simple FTP client
 In goal of this project is to use the Java socket related classes to create an FTP client. The program is to provide some
 basic FTP client functionality through a simple text-based interface. A subset of the FTP commands in RFC 959 were
 implemented. The program will provide a simple command line interface to the user. The program will read a command
